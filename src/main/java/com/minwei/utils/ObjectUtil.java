@@ -1,4 +1,4 @@
-package com.minwei;
+package com.minwei.utils;
 
 import org.springframework.beans.BeanUtils;
 
